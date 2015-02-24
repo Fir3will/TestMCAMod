@@ -1,14 +1,14 @@
 [
 {
-  "modid": "mobtutorial",
-  "name": "Mob Tutorial",
-  "description": "Adding a custom Little Soldier mob!",
+  "modid": "testmca",
+  "name": "Test MCA",
+  "description": "Testing the MCAnimator to show all it's users how to correctly implement the MCALibrary and models into your workspace!",
   "version": "1.0",
   "mcversion": "1.7.10",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Fir3will"],
-  "credits": "Fir3will for making this mod",
+  "authorList": ["Fir3will", "AXELPOLTINO"],
+  "credits": "Fir3will and AXELPOLTINO for making this mod and the great MCAnimator!",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
