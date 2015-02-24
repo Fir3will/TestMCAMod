@@ -6,8 +6,8 @@ You can copy, paste, fork, clone, or pull as much as you want! It's a public thi
 ###Entities###
 ####Horned Goat####
 The first entity is the Horned Goat, pretty much a simple animal entity that doesn't do much.
-One thing that it does do is if you feed it a grass block, it will start it's eating animation.
-If you simply right click it with nothing in your hand, it will play it's charge animation! Pretty Cool!
+One thing that it does do is if you feed it a grass block, it will start its eating animation.
+If you simply right click it with nothing in your hand, it will play its charge animation! Pretty Cool!
 
 ####Grenade####
 This entity is a bit more complex as what it does is pretty much what you'd think. It's a grenade!
