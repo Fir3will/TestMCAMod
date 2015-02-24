@@ -1,4 +1,4 @@
-# TestMCAMod
+# TestMCAMod (MC 1.7.10)
 This is the TestMCA Mod, a quick mod that Fir3will (me) and AXELPOLTINO quickly put together,
 to show you how the MCAnimator can potentially be used in your Minecraft Mod!
 You can copy, paste, fork, clone, or pull as much as you want! It's a public thing that is used just for instructions!
