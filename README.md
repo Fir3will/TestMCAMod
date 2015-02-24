@@ -15,16 +15,16 @@ You can throw it and it will blow up after a specific time.
 It's model is like a spikey ball and is actually customizable using the constructor of the model class!
 It's crafting and it's ItemStack is a bit more complex because it goes pretty deep into the whole crafting scene
 There are multiple things you can change about the grenade:
-######1. It's Explosion Radius (size)
-######2. It's Timer before exploding (fuse)
-######3. It's Bounce (bounceFactor)
-######4. and It's Speed (speed)
+######1. Its Explosion Radius (size)
+######2. Its Timer before exploding (fuse)
+######3. Its Bounce (bounceFactor)
+######4. and Its Speed (speed)
 
 To craft a grenade, you have to go to your crafting table and put a gunpowder with a string and BOOM you have a grenade!
 (Here's the tricky part!)
 Once you have a piece of gunpowder and string in the crafting grid, you can:
-######1. Add gunpowder or TNT to increate it's explosion radius
-######2. Add string or wool to increase it's timer
-######3. Add sugar cane or sugar to increase it's speed
+######1. Add gunpowder or TNT to increate its explosion radius
+######2. Add string or wool to increase its timer
+######3. Add sugar cane or sugar to increase its speed
 ######4. and lastly, add clay blocks or balls of clay to increase it's bounce height. 
 #####(BEWARE IT'S MAX BOUNCE HEIGHT IS 100, ITEMS AFTER 100 WILL NOT BE USED!)#####
